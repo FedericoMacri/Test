@@ -1,1 +1,3 @@
-nvidia geForce rtx 3060
+intel i7-9700k
+nvidia geForce rtx4060
+
